@@ -21,7 +21,7 @@ We don’t just build. We collaborate, teach and future-proof.
 - Enterprise Security & Incident Response
 - LLM Deployment (Open Weights FTW!)
 - Automation, AI Integration & Enablement Programs
-- IT-as-Code & Continuous Delivery Pipelines
+- Everything-as-Code & Continuous Delivery Pipelines
 
 #### 🧭 How We Work
 
